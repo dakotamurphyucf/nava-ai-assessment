@@ -19,7 +19,8 @@
     "glob": "^10.3.10",
     "zod-to-json-schema": "^3.23.5",
     "jsbi": "^4.3.0",
-    "viem": "^2.22.21"
+    "viem": "^2.22.21",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@types/node": "^22",
