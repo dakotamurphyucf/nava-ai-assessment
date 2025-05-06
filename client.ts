@@ -1,6 +1,5 @@
 // Utility helpers for interacting with an EVM JSON-RPC endpoint via viem.
-// All previously inlined inside `blockchain.ts` but extracted for reuse by
-// individual tool handlers.
+// used by individual tool handlers.
 
 import { createPublicClient, createWalletClient, http, defineChain } from "viem";
 import { privateKeyToAccount } from "viem/accounts";
